@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/00_Scenes/03_ImageDatabasePrototype.unity
+  isLoaded: 1
+  isActive: 1
